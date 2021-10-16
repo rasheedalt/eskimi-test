@@ -5,7 +5,7 @@ eskimi-spss test
 
 - run cp .env.example .env
 
-- docker-compose up -d nginx mysql to build nginx and mysql images
+- cd into laradock folder and run docker-compose up -d nginx mysql to build nginx and mysql images
 
 
 - run composer install
